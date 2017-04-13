@@ -17,9 +17,9 @@ return [
 //         ],
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=localhost;dbname=yii-admin',
+            'dsn' => 'mysql:host=121.42.173.237;dbname=hailan_shop',
             'username' => 'root',
-            'password' => '123456',
+            'password' => 'lijinzhe',
             'charset' => 'utf8',
         ],
         'mailer' => [
